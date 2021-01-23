@@ -1,7 +1,7 @@
 pip>=9.0.1
 amqp==1.4.6
-gevent==1.0.2
-greenlet==0.4.7
+gevent==1.2.1
+greenlet==1.0.0
 hiredis==0.2.0
 PyYAML==3.11
 redis==2.10.5
